@@ -24,8 +24,5 @@ public static void main(String [] args){
     System.out.println("The Total Price: " + isTotalPrice);
     
     reader.close();  
-      
- 
- 
  }
 }
